@@ -1,0 +1,20 @@
+{
+    "name": "smuuzy/laravel-likes-reactions",
+    "description": "Like-Reactions feature for Laravel Applications",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Smuuzy\\Laravel\\Likes\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Alexander Schetnikov",
+            "email": "hi.sanyaaa@ya.ru"
+        }
+    ],
+    "require": {
+        "laravel/framework": "^6.0|9.0|^10.0"
+    }
+}
